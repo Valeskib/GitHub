@@ -19,7 +19,8 @@ body {
 font-family: "groupie-gloss" !important;
 font-style: normal;
 font-weight: 400;
-font-size: 70px;
+font-size: 100px;
+color: #B42B4f
 
 }
 .resume-header {
@@ -64,4 +65,16 @@ font-size: 70px;
 }
 .language-progress {
 	background-color: #D96281 !important;
+}
+.aboutme {
+	color: #000000;
+    text-align: left;
+	font-style: italic;
+}
+.title-biographycontent {
+	text-decoration: underline #ffcc00;
+}
+.headingsinbiography {
+	font-style: small;
+	font-style: italic;
 }
