@@ -20,7 +20,8 @@ font-family: "groupie-gloss" !important;
 font-style: normal;
 font-weight: 400;
 font-size: 100px;
-color: #B42B4f
+color: #B42B4f;
+	text-shadow: 8px 8px #FFF1B9;
 
 }
 .resume-header {
@@ -28,7 +29,7 @@ color: #B42B4f
 }
 
 .resume-main {
-	background-color: #fffefc;
+    background-color: #FFFFFF
 }
 
 .resume-aside {
@@ -73,8 +74,22 @@ color: #B42B4f
 }
 .title-biographycontent {
 	text-decoration: underline #ffcc00;
+	font-family: "groupie-gloss" !important;
+	font-style: small;
+	font-weight: lighter;
+	font-size: 50px
 }
 .headingsinbiography {
 	font-style: small;
 	font-style: italic;
+}
+.biography-list {
+	padding-left: 50px;
+}
+.contactbox {
+	background: linear-gradient(to top right, #ffcccc 0%, #FFF1B9 100%);
+	padding-top: 1px;
+	padding-bottom: 1px;
+	border: 1px dashed #88A649;
+	margin: 2px;
 }
